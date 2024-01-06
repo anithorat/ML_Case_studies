@@ -11,3 +11,22 @@ Machine learning techniques have been used to predict credit risk. Infosys deliv
 
 ## Mobile Price Prediction
 Machine learning techniques have been used to predict mobile prices. A Kaggle notebook demonstrated the use of various machine learning models to predict mobile price classes based on features like battery power, 3G enabled, wifi, Bluetooth, Ram, etc. Another study looked at predicting the price of a mobile when the specifications of a mobile are given and to find the ML algorithm that predicts the price most accurately.
+
+
+# other some important Machine Learning case studies
+
+## Dell
+Dell, a multinational leader in technology, partnered with Persado, a leading technology company specializing in AI and ML, to enhance the marketing copy of their promotional and lifecycle emails. As a result of this partnership, Dell experienced a 50% average increase in Click-Through Rate (CTR) and a 46% average increase in customer engagement responses.
+
+## Sky UK
+Sky UK, a British telecommunication service, uses machine learning and artificial intelligence algorithms to transform customer experiences.
+
+## Financial Services
+The most common use case of machine learning is in financial services. Machine learning is used in various processes such as credit appraisal, financial planning & analysis, and financial risk management.
+
+## Healthcare
+Machine learning is also widely used in the healthcare industry for various purposes such as disease prediction, patient care, drug discovery, and more.
+
+## Technology
+In the technology sector, machine learning is used for analytics, data management, and innovation management.
+
